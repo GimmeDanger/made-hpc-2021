@@ -1,0 +1,2258 @@
+             {
+             	rank: 329,
+             	eff: 1300.00,
+             	conf: 'Sugon TC6000, Xeon Gold 5117 14C 2GHz, 25G Ethernet',
+             	color: '#6495ED'
+             },
+             {
+             	rank: 328,
+             	eff: 1192.54,
+             	conf: 'Apollo 70, Marvell ThunderX2 ARM CN9975-2000  28C 2GHz, 4xEDR Infiniband',
+             	color: '#DC143C'
+             },
+             {
+             	rank: 327,
+             	eff: 470.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6148 20C 2.4GHz, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 325,
+             	eff: 600.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 318,
+             	eff: 1042.00,
+             	conf: 'bullx DLC 720, Xeon E5-2698v3 16C 2.3GHz, Infiniband FDR',
+             	color: '#00008B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 314,
+             	eff: 625.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 313,
+             	eff: 732.40,
+             	conf: 'Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             {
+             	rank: 312,
+             	eff: 630.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 310,
+             	eff: 732.78,
+             	conf: 'Huawei 2288H V5, Xeon Gold 6150 18C 2.7GHz, 10G Ethernet',
+             	color: '#006400'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 307,
+             	eff: 520.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 305,
+             	eff: 630.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 304,
+             	eff: 570.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 303,
+             	eff: 650.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 302,
+             	eff: 245.00,
+             	conf: 'Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 25G Ethernet, NVIDIA Tesla V100',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 300,
+             	eff: 657.00,
+             	conf: 'NEC Cluster, Xeon Gold 6130 16C 2.1GHz, MEGWARE MiriQuid Xeon E5-2630v4, Intel Omni-Path',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 295,
+             	eff: 660.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 294,
+             	eff: 1216.00,
+             	conf: 'Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 293,
+             	eff: 1216.00,
+             	conf: 'Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 292,
+             	eff: 512.00,
+             	conf: 'Bull intel Cluster, Xeon Gold 6140 18C 2.3GHz, Intel Omni-Path',
+             	color: '#00008B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 290,
+             	eff: 510.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 289,
+             	eff: 1200.00,
+             	conf: 'Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 288,
+             	eff: 118.48,
+             	conf: 'Fujitsu A64FX, Fujitsu A64FX 48C 2GHz, Tofu interconnect D',
+             	color: '#BDB76B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 284,
+             	eff: 250.00,
+             	conf: 'Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 283,
+             	eff: 1470.00,
+             	conf: 'Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 277,
+             	eff: 590.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 271,
+             	eff: 997.00,
+             	conf: 'Tianhe-2 LvLiang, Intel Xeon E5-2692v2 12C 2.2GHz, TH Express-2, Intel Xeon Phi 31S1P',
+             	color: '#556B2F'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 264,
+             	eff: 260.00,
+             	conf: 'Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 263,
+             	eff: 511.54,
+             	conf: 'ThinkSystem SR650, Xeon Gold 6240 18C 2.6GHz, Infiniband HDR',
+             	color: '#DC143C'
+             },
+             
+             
+            
+             {
+             	rank: 262,
+             	eff: 495.86,
+             	conf: 'Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 260,
+             	eff: 430.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6142 16C 2.6GHz, Intel Omni-Path, NVIDIA Tesla V100',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 258,
+             	eff: 265.00,
+             	conf: 'Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, NVIDIA Tesla V100, Infiniband EDR',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 251,
+             	eff: 1625.00,
+             	conf: 'Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 244,
+             	eff: 740.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 241,
+             	eff: 1134.00,
+             	conf: 'Dell PowerEdge R630, Xeon E5-2680v3 12C 2.5GHz, Infiniband QDR',
+             	color: '#FF8C00'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 238,
+             	eff: 530.00,
+             	conf: 'PowerEdge C6420/C6320, Intel Xeon Phi 7210/Xeon Gold 6142F 16C 2.6GHz, Intel Omni-Path',
+             	color: '#556B2F'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 235,
+             	eff: 240.00,
+             	conf: 'Dell EMC PowerEdge R640, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, Infiniband EDR',
+             	color: '#556B2F'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 230,
+             	eff: 377.21,
+             	conf: 'BullSequana XH2000, AMD EPYC 7H12 64C 2.6GHz, Mellanox HDR200 InfiniBand/ParTec ParaStation ClusterSuite',
+             	color: '#00008B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 227,
+             	eff: 563.85,
+             	conf: 'QCT QuantaPlex T42D-2U/4N, Xeon Platinum 8280 28C 2.7GHz, InfiniBand HDR 100',
+             	color: '#E9967A'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 223,
+             	eff: 608.00,
+             	conf: 'PowerEdge R440/C6320p, Intel Xeon Phi 7250/Xeon Gold 6130 16C 2.1GHz, Intel Omni-Path',
+             	color: '#556B2F'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 219,
+             	eff: 494.51,
+             	conf: 'ThinkSystem SD650 V2, Xeon Platinum 8368 38C 2.4GHz, Mellanox HDR Infiniband',
+             	color: '#DC143C'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 216,
+             	eff: 486.85,
+             	conf: 'CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 214,
+             	eff: 89.94,
+             	conf: 'NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband',
+             	color: '#FF8C00'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 210,
+             	eff: 1359.38,
+             	conf: 'Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 209,
+             	eff: 1359.38,
+             	conf: 'Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 203,
+             	eff: 740.00,
+             	conf: 'Sugon TC4600, Xeon Gold 6142 16C 2.6GHz, Infiniband EDR',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 202,
+             	eff: 835.00,
+             	conf: 'SGI ICE XA, Xeon E5-2698v4 20C 2.2GHz, Infiniband EDR',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 195,
+             	eff: 692.05,
+             	conf: 'INTEL-HNS2600BPB, Xeon Platinum 8160  24C 2.1GHz, Intel Omni-Path',
+             	color: '#2F4F4F'
+             },
+             
+             
+            
+             {
+             	rank: 194,
+             	eff: 1465.78,
+             	conf: 'Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 192,
+             	eff: 1430.00,
+             	conf: 'bullx DLC 720, Xeon E5-2690v4 14C 2.6GHz, Infiniband FDR',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 191,
+             	eff: 1384.00,
+             	conf: 'Atipa Visione IF442 Blade Server, Xeon E5-2670 8C 2.600GHz, Infiniband FDR, Intel Xeon Phi 5110P',
+             	color: '#2F4F4F'
+             },
+             
+             
+            
+             {
+             	rank: 190,
+             	eff: 710.00,
+             	conf: 'Sugon TC4600LP/W740I, Xeon Gold 6142 16C 2.6GHz, Infiniband EDR, NVIDIA Tesla P100',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 189,
+             	eff: 105.76,
+             	conf: 'Bull Sequana XH2000 , AMD EPYC 7402 24C 2.8GHz, NVIDIA A100, Mellanox HDR Infiniband',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 188,
+             	eff: 4040.00,
+             	conf: 'NUDT YH MPP, Xeon X5670 6C 2.93 GHz, NVIDIA 2050',
+             	color: '#8B008B'
+             },
+             
+             
+            
+             {
+             	rank: 187,
+             	eff: 954.73,
+             	conf: 'Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 181,
+             	eff: 163.65,
+             	conf: 'NEC HPC 22S8Ri-4, EPYC 7352 24C 2.3GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR200',
+             	color: '#483D8B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 179,
+             	eff: 792.00,
+             	conf: 'PowerEdge C6420, Xeon Platinum 8160  24C 2.1GHz, Intel Omni-Path',
+             	color: '#BDB76B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 175,
+             	eff: 13620.00,
+             	conf: 'Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path',
+             	color: '#00FFFF'
+             },
+             
+             
+            
+             {
+             	rank: 174,
+             	eff: 13620.00,
+             	conf: 'Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path',
+             	color: '#00FFFF'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 163,
+             	eff: 750.00,
+             	conf: 'Tundra Extreme Scale, Xeon Gold 6140 18C 2.3GHz, Intel Omni-Path',
+             	color: '#00FFFF'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 154,
+             	eff: 697.51,
+             	conf: 'Cray XC50, Xeon Gold 6148 20C 2.4GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 153,
+             	eff: 1347.84,
+             	conf: 'Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 152,
+             	eff: 1347.84,
+             	conf: 'Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 151,
+             	eff: 1480.83,
+             	conf: 'NeXtScale nx360M5, Xeon E5-2697v3 14C 2.6GHz, Infiniband FDR14',
+             	color: '#00CED1'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 149,
+             	eff: 502.70,
+             	conf: 'Apollo 2000, AMD EPYC 7H12 64C 2.6GHz, InfiniBand HDR 100',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 141,
+             	eff: 1116.00,
+             	conf: 'bullx DLC 720, Xeon E5-2680v3 12C 2.5GHz/E5-2695V4 18C  2.1Ghz, Infiniband FDR',
+             	color: '#00008B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 139,
+             	eff: 748.10,
+             	conf: 'Cray XC40, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 137,
+             	eff: 691.20,
+             	conf: 'HPE SGI 8600, Xeon Platinum 8268 24C 2.9GHz, Dual-rail Intel Omni-Path',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             {
+             	rank: 136,
+             	eff: 637.95,
+             	conf: 'HPE Cray EX, AMD EPYC 7742 64C 2.25GHz, Slingshot-10',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 133,
+             	eff: 4819.50,
+             	conf: 'SGI ICE X, Xeon E5-2699v3/E5-2697 v3, Infiniband FDR, NVIDIA Tesla K40, Intel Xeon Phi 7120P',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             {
+             	rank: 132,
+             	eff: 6327.55,
+             	conf: 'Cray XC30, Intel Xeon E5-2697v2 12C 2.7GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 131,
+             	eff: 690.00,
+             	conf: 'MEGWARE MiriQuid, Intel Xeon Platinum 9242 48C 2.3GHz, Mellanox InfiniBand HDR100',
+             	color: '#FF1493'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 129,
+             	eff: 389.76,
+             	conf: 'Bull 4029GP-TVRT, Xeon Gold 5122 4C 3.6GHz, NVIDIA Tesla V100, Infiniband EDR',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 128,
+             	eff: 1227.00,
+             	conf: 'iDataPlex DX360M4, Intel Xeon E5-2680v2  10C 2.8GHz, Infiniband FDR, NVIDIA K20x',
+             	color: '#9932CC'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 126,
+             	eff: 887.00,
+             	conf: 'Relion Cluster, Intel Xeon Platinum 9242 48C 2.3GHz, Intel Omni-Path',
+             	color: '#00FFFF'
+             },
+             
+             
+            
+             {
+             	rank: 125,
+             	eff: 1134.00,
+             	conf: 'Bull Sequana X1000, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 124,
+             	eff: 565.08,
+             	conf: 'SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, Mellanox InfiniBand HDR100',
+             	color: '#483D8B'
+             },
+             
+             
+            
+             {
+             	rank: 123,
+             	eff: 349.50,
+             	conf: 'NVIDIA DGX-1, Xeon E5-2698v4 20C 2.2GHz, Infiniband EDR, NVIDIA Tesla P100',
+             	color: '#FF8C00'
+             },
+             
+             
+            
+             {
+             	rank: 122,
+             	eff: 349.50,
+             	conf: 'NVIDIA DGX-1/Relion 2904GT, Xeon E5-2698v4 20C 2.2GHz/ E5-2650v4, Infiniband EDR, NVIDIA Tesla P100/Quadro GP100',
+             	color: '#696969'
+             },
+             
+             
+            
+             {
+             	rank: 121,
+             	eff: 5175.00,
+             	conf: 'SGI ICE X, Xeon E5-2699v3 18C 2.3GHz, Infiniband FDR',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             {
+             	rank: 120,
+             	eff: 310.00,
+             	conf: 'PowerEdge C6420, Xeon Silver 4216 16C 2.1GHz, NVIDIA Tesla V100, Intel Omni-Path',
+             	color: '#BDB76B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 116,
+             	eff: 829.00,
+             	conf: 'CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             {
+             	rank: 115,
+             	eff: 1498.90,
+             	conf: 'Cray CS-Storm, Intel Xeon E5-2660v2 10C 2.2GHz, Infiniband FDR, Nvidia K40',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 114,
+             	eff: 1498.90,
+             	conf: 'Cray CS-Storm, Intel Xeon E5-2660v2 10C 2.2GHz, Infiniband FDR, Nvidia K40',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 113,
+             	eff: 919.42,
+             	conf: 'ThinkSystem SD530, Xeon Gold 6248 20C 2.5GHz, InfiniBand HDR100',
+             	color: '#DC143C'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 107,
+             	eff: 1353.23,
+             	conf: 'Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 105,
+             	eff: 647.99,
+             	conf: 'SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, InfiniBand HDR 100',
+             	color: '#483D8B'
+             },
+             
+             
+            
+             {
+             	rank: 104,
+             	eff: 1897.02,
+             	conf: 'Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 103,
+             	eff: 1897.02,
+             	conf: 'Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 102,
+             	eff: 1800.00,
+             	conf: 'Cray XC30, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 101,
+             	eff: 917.00,
+             	conf: 'Bull Sequana X1000, Xeon Platinum 8168 24C 2.7GHz, Mellanox EDR',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 100,
+             	eff: 146.53,
+             	conf: 'PowerEdge XE8545, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 80GB​, Infiniband HDR200 dual rail',
+             	color: '#556B2F'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 98,
+             	eff: 960.00,
+             	conf: 'Tundra Extreme Scale, Xeon Platinum 8268 24C 2.9GHz, Intel Omni-Path',
+             	color: '#00FFFF'
+             },
+             
+             
+            
+             {
+             	rank: 97,
+             	eff: 845.09,
+             	conf: 'Fujitsu PRIMERGY CX2550/CX2560 M5, Xeon Platinum 8280 28C 2.7GHz, Intel Omni-Path',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             {
+             	rank: 96,
+             	eff: 1225.53,
+             	conf: 'BullSequana X, Xeon Platinum 8260 24C 2.4GHz, Infiniband HDR',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 95,
+             	eff: 380.00,
+             	conf: 'Sugon TC8600, Hygon Dhyana  32C 2GHz, Deep Computing Processor, 200Gb 6D-Torus',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 94,
+             	eff: 546.58,
+             	conf: 'Bull 4029GP-TVRT, Xeon Gold 6240 18C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 93,
+             	eff: 183.93,
+             	conf: 'PRIMERGY GX2570 M6, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 87,
+             	eff: 1727.00,
+             	conf: 'SGI ICE XA, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 83,
+             	eff: 1436.00,
+             	conf: 'Apollo 2000, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100, Intel Omni-Path',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 81,
+             	eff: 4150.00,
+             	conf: 'SGI ICE X, Xeon Xeon E5-2670/ E5-2680v3 12C 2.5GHz, Infiniband FDR',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             {
+             	rank: 80,
+             	eff: 1070.00,
+             	conf: 'Bull Sequana XH2000 , AMD Rome 7H12 64C 2.6GHz, Mellanox HDR100',
+             	color: '#00008B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 78,
+             	eff: 1685.73,
+             	conf: 'HPE SGI 8600/SGI ICE-X, E5-2680V4/ Xeon Gold 6148 20C 2.4GHz, Infiniband EDR/FDR-56 IB',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             {
+             	rank: 77,
+             	eff: 2834.00,
+             	conf: 'Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 76,
+             	eff: 1635.00,
+             	conf: 'Intel Compute Module HNS2600BP, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path',
+             	color: '#1E90FF'
+             },
+             
+             
+            
+             {
+             	rank: 75,
+             	eff: 1353.95,
+             	conf: 'Cray XC50, Xeon Platinum 8160  24C 2.1GHz, Aries interconnect ',
+             	color: '#B22222'
+             },
+             
+             
+            
+             {
+             	rank: 74,
+             	eff: 1353.95,
+             	conf: 'Cray XC50, Xeon Platinum 8160  24C 2.1GHz, Aries interconnect ',
+             	color: '#1E90FF'
+             },
+             
+             
+            
+             {
+             	rank: 73,
+             	eff: 1432.00,
+             	conf: 'HPE SGI 8600, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR/HDR ',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             {
+             	rank: 72,
+             	eff: 1401.00,
+             	conf: 'HPE Apollo 9000/HPE SGI 8600, AMD EPYC 7742 64C 2.25GHz/Intel Xeon Gold 6248 20C 2.5GHz, Mellanox EDR/HDR Infiniband',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 70,
+             	eff: 4407.00,
+             	conf: 'SGI ICE X, Intel Xeon E5-2670/E5-2680v2/E5-2680v3/E5-2680v4  2.6/2.8/2.5/2.4 GHz, Infiniband FDR',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             {
+             	rank: 69,
+             	eff: 297.26,
+             	conf: 'Apollo 6500, AMD EPYC 7452 32C 2.35GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR200',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 67,
+             	eff: 1222.20,
+             	conf: 'NEC LX 103Bj-8, Xeon Platinum 8368 38C 2.4GHz, Infiniband HDR200',
+             	color: '#483D8B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 65,
+             	eff: 1361.00,
+             	conf: 'Bull Sequana X1000, Xeon Platinum 8168 24C 2.7GHz, Mellanox EDR InfiniBand/ParTec ParaStation ClusterSuite',
+             	color: '#00008B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 63,
+             	eff: 1632.00,
+             	conf: 'Lenovo SD530, Xeon Platinum 8160 24C 2.1GHz, Intel Omni-Path',
+             	color: '#DC143C'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 59,
+             	eff: 1436.00,
+             	conf: 'Bull Sequana XH2000 , AMD Rome 7H12 64C 2.6GHz, Mellanox HDR100',
+             	color: '#00008B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 57,
+             	eff: 673.00,
+             	conf: 'NVIDIA DGX-2, Xeon Platinum 8168 24C 2.7GHz, Infiniband EDR, NVIDIA Tesla V100',
+             	color: '#FF8C00'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 55,
+             	eff: 1655.00,
+             	conf: 'Bull Sequana XH2000 , AMD EPYC 7742 64C 2.25GHz, Mellanox HDR100',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 54,
+             	eff: 1550.10,
+             	conf: 'SX-Aurora TSUBASA A412-8, Vector Engine Type10AE 8C 1.58GHz, Infiniband HDR 200',
+             	color: '#483D8B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 52,
+             	eff: 358.79,
+             	conf: 'ThinkSystem SD650 V2, Xeon Platinum 8368 38C 2.4GHz, NVIDIA A100 40GB, Mellanox HDR Infiniband',
+             	color: '#DC143C'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 50,
+             	eff: 792.08,
+             	conf: 'SGI ICE XA, IP139-SXM2, Xeon E5-2680v4 14C 2.4GHz, Intel Omni-Path, NVIDIA Tesla P100 SXM2',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             {
+             	rank: 49,
+             	eff: 1672.00,
+             	conf: 'Bull Sequana XH2000 , AMD EPYC 7742 64C 2.25GHz, Mellanox InfiniBand HDR100',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 48,
+             	eff: 512.08,
+             	conf: 'IBM Power System AC922, IBM POWER9 20C 3.45GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband',
+             	color: '#9932CC'
+             },
+             
+             
+            
+             {
+             	rank: 47,
+             	eff: 377.00,
+             	conf: 'ThinkSystem SD650-N V2, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100, Mellanox HDR Infiniband',
+             	color: '#DC143C'
+             },
+             
+             
+            
+             {
+             	rank: 46,
+             	eff: 943.12,
+             	conf: 'Supermicro SYS-4029GP-TVRT, Xeon Gold 6230R 26C 2.1GHz, NVIDIA Tesla V100, Infiniband EDR',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 45,
+             	eff: 797.54,
+             	conf: 'QCT QuantaGrid D52G-4U/LC, Xeon Gold 6154 18C 3GHz, Mellanox InfiniBand EDR, NVIDIA Tesla V100 SXM2',
+             	color: '#8B0000'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 43,
+             	eff: 384.10,
+             	conf: 'BullSequana XH2000, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100 40GB, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite',
+             	color: '#00008B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 497,
+             	eff: 603.40,
+             	conf: 'Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path',
+             	color: '#00FFFF'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 488,
+             	eff: 960.00,
+             	conf: 'Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 487,
+             	eff: 1150.00,
+             	conf: 'Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 484,
+             	eff: 3575.63,
+             	conf: 'Power 775, POWER7 8C 3.836GHz, Custom Interconnect',
+             	color: '#9932CC'
+             },
+             
+             
+            
+             {
+             	rank: 483,
+             	eff: 530.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 477,
+             	eff: 314.60,
+             	conf: 'PowerEdge C6525, AMD EPYC 7662 64C 2GHz, Mellanox InfiniBand HDR100',
+             	color: '#556B2F'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 475,
+             	eff: 601.00,
+             	conf: 'PowerEdge C6320/C6420, Xeon E5-2683 v4  16C 2.1GHz/Xeon Platinum 8160, Intel Omni-Path',
+             	color: '#556B2F'
+             },
+             
+             
+            
+             {
+             	rank: 474,
+             	eff: 956.25,
+             	conf: 'Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 473,
+             	eff: 956.25,
+             	conf: 'Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 471,
+             	eff: 3306.24,
+             	conf: 'Cray XC30, Intel Xeon E5 v2 12C 2.700GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 377,
+             	eff: 558.60,
+             	conf: 'Intel Cluster, Intel Xeon 6245/8280/6230/8268/8260L/8276/9242, Intel Omni-Path',
+             	color: '#696969'
+             },
+             
+             
+            
+             {
+             	rank: 376,
+             	eff: 260.00,
+             	conf: 'Sugon TC6000, AMD Epyc 7501 32C 2GHz, AMD Vega 20, Infiniband HDR',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 373,
+             	eff: 807.60,
+             	conf: 'HP Apollo 8000, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR, NVIDIA Tesla K40',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             {
+             	rank: 372,
+             	eff: 524.28,
+             	conf: 'Huawei 1288H V5, Xeon Platinum 8160  24C 2.1GHz, Infiniband EDR',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             {
+             	rank: 371,
+             	eff: 1050.00,
+             	conf: 'Sugon TC6000, Xeon E5-2650v4 12C 2.2GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 366,
+             	eff: 2880.00,
+             	conf: 'Cluster Platform 3000 BL460c Gen9, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 364,
+             	eff: 585.00,
+             	conf: 'Bull Sequana X1000, Xeon Gold 6230 20C 2.1GHz, Mellanox HDR100',
+             	color: '#00008B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 361,
+             	eff: 654.60,
+             	conf: 'Huawei X6000, Xeon Gold 6242 16C 2.8GHz, Infiniband EDR',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             {
+             	rank: 360,
+             	eff: 307.00,
+             	conf: 'CH121L V5 Liquid-Cooled, Xeon Platinum 8268 24C 2.9GHz, Infiniband EDR',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 354,
+             	eff: 1000.00,
+             	conf: 'Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 349,
+             	eff: 1320.00,
+             	conf: 'Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 346,
+             	eff: 544.48,
+             	conf: 'NEC LX Cluster, Xeon Gold 6148/6154, Intel Omni-Path',
+             	color: '#483D8B'
+             },
+             
+             
+            
+             {
+             	rank: 345,
+             	eff: 1100.00,
+             	conf: 'Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 344,
+             	eff: 842.00,
+             	conf: 'Cray XC40, Xeon E5-2695v4/E5-2698v3 16C 2.3GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 342,
+             	eff: 1100.00,
+             	conf: 'Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 339,
+             	eff: 180.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6248 20C 2.5GHz, NVIDIA Tesla V100, Infiniband EDR',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 338,
+             	eff: 600.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6130 16C 2.1GHz, 25G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 335,
+             	eff: 61.36,
+             	conf: 'MN-Core Server, Xeon Platinum 8260M 24C 2.4GHz, Preferred Networks MN-Core, MN-Core DirectConnect',
+             	color: '#FF00FF'
+             },
+             
+             
+            
+             {
+             	rank: 334,
+             	eff: 600.00,
+             	conf: 'Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             {
+             	rank: 333,
+             	eff: 240.00,
+             	conf: 'Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet',
+             	color: '#FF7F50'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 331,
+             	eff: 529.00,
+             	conf: 'Bull Sequana X1000, Intel Xeon Phi 7210 64C 1.3GHz/Xeon Gold 6142, Mellanox EDR',
+             	color: '#00008B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 39,
+             	eff: 1390.95,
+             	conf: 'SX-Aurora TSUBASA A401-8, Vector Engine Type20B 8C 1.6GHz, Infiniband HDR200',
+             	color: '#483D8B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 36,
+             	eff: 390.25,
+             	conf: 'BullSequana XH2000, AMD EPYC 7452 32C 2.35GHz, NVIDIA A100 40GB, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite',
+             	color: '#00008B'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 34,
+             	eff: 3178.00,
+             	conf: 'Bull Sequana X1000, Intel Xeon Phi 7250 68C 1.4GHz, Bull BXI 1.2',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 33,
+             	eff: 1320.00,
+             	conf: 'Proliant DL380 Gen10, Xeon Platinum 8160  24C 2.1GHz, Mellanox InfiniBand EDR, NVIDIA Tesla P100',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             {
+             	rank: 32,
+             	eff: 2718.70,
+             	conf: 'PRIMERGY CX1640 M1, Intel Xeon Phi 7250 68C 1.4GHz, Intel Omni-Path',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 30,
+             	eff: 3939.00,
+             	conf: 'Cray XC40, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect ',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 24,
+             	eff: 15414.00,
+             	conf: 'ThinkSystem SD650 V2, Xeon Platinum 8368Q 38C 2.6GHz, Infiniband HDR',
+             	color: '#DC143C'
+             },
+             
+             
+            
+             {
+             	rank: 23,
+             	eff: 15414.00,
+             	conf: 'ThinkSystem SD650 V2, Xeon Platinum 8368Q 38C 2.6GHz, Infiniband HDR',
+             	color: '#DC143C'
+             },
+             
+             
+            
+             {
+             	rank: 22,
+             	eff: 582.63,
+             	conf: 'NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Infiniband HDR',
+             	color: '#FF8C00'
+             },
+             
+             
+            
+             {
+             	rank: 21,
+             	eff: 1367.00,
+             	conf: 'IBM Power System AC922, IBM POWER9 18C 3.45GHz, Dual-rail Mellanox EDR Infiniband, NVIDIA Volta GV100',
+             	color: '#9932CC'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 18,
+             	eff: 3905.83,
+             	conf: 'Apollo 9000, AMD EPYC 7742 64C 2.25GHz, Mellanox HDR Infiniband',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             
+            
+             {
+             	rank: 16,
+             	eff: 7578.10,
+             	conf: 'Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 15,
+             	eff: 2384.24,
+             	conf: 'Cray XC50, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect , NVIDIA Tesla P100',
+             	color: '#B8860B'
+             },
+             
+             
+            
+             {
+             	rank: 14,
+             	eff: 1476.00,
+             	conf: 'IBM Power System AC922, IBM POWER9 16C 3GHz, Nvidia Volta V100, Dual-rail Mellanox EDR Infiniband',
+             	color: '#9932CC'
+             },
+             
+             
+            
+             {
+             	rank: 13,
+             	eff: 1468.00,
+             	conf: 'PRIMEHPC FX1000, A64FX 48C 2.2GHz, Tofu interconnect D',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             {
+             	rank: 12,
+             	eff: 1600.32,
+             	conf: 'PRIMERGY GX2570 M6, Xeon Platinum 8360Y 36C 2.4GHz, NVIDIA A100 SXM4 40 GB, Infiniband HDR',
+             	color: '#A9A9A9'
+             },
+             
+             
+            
+             
+            
+             
+            
+             {
+             	rank: 9,
+             	eff: 2252.17,
+             	conf: 'PowerEdge C4140, Xeon Gold 6252 24C 2.1GHz, NVIDIA Tesla V100, Mellanox HDR Infiniband',
+             	color: '#556B2F'
+             },
+             
+             
+            
+             {
+             	rank: 8,
+             	eff: 1764.22,
+             	conf: 'Bull Sequana XH2000 , AMD EPYC 7402 24C 2.8GHz, NVIDIA A100, Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite',
+             	color: '#00008B'
+             },
+             
+             
+            
+             {
+             	rank: 7,
+             	eff: 18482.00,
+             	conf: 'TH-IVB-FEP Cluster, Intel Xeon E5-2692v2 12C 2.2GHz, TH Express-2, Matrix-2000',
+             	color: '#8B008B'
+             },
+             
+             
+            
+             {
+             	rank: 6,
+             	eff: 2646.00,
+             	conf: 'NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband',
+             	color: '#FF8C00'
+             },
+             
+             
+            
+             {
+             	rank: 5,
+             	eff: 2528.00,
+             	conf: 'HPE Cray EX235n, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10',
+             	color: '#6495ED'
+             },
+             
+             
+            
+             {
+             	rank: 4,
+             	eff: 15371.00,
+             	conf: 'Sunway MPP, Sunway SW26010 260C 1.45GHz, Sunway',
+             	color: '#008000'
+             },
+             
+             
+            
+             {
+             	rank: 3,
+             	eff: 7438.28,
+             	conf: 'IBM Power System AC922, IBM POWER9 22C 3.1GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband',
+             	color: '#DAA520'
+             },
+             
+             
+            
+             {
+             	rank: 2,
+             	eff: 10096.00,
+             	conf: 'IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband',
+             	color: '#9932CC'
+             },
+             
+             
+            
+             {
+             	rank: 1,
+             	eff: 29899.23,
+             	conf: 'Supercomputer Fugaku, A64FX 48C 2.2GHz, Tofu interconnect D',
+             	color: '#A9A9A9'
+             },
