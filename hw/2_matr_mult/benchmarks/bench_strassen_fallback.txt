@@ -1,0 +1,32 @@
+test mat mult mat strassen naive (fallback_N=32),  for N=2048 started
+runtime 3.298828 seconds
+runtime 2.883530 seconds
+runtime 2.783091 seconds
+runtime 2.788762 seconds
+runtime 2.858556 seconds
+average runtime 2.922554 seconds
+---------------------------------
+test mat mult mat strassen naive (fallback_N=64),  for N=2048 started
+runtime 5.235474 seconds
+runtime 2.554081 seconds
+runtime 2.509114 seconds
+runtime 2.494075 seconds
+runtime 2.526416 seconds
+average runtime 3.063832 seconds
+---------------------------------
+test mat mult mat strassen naive (fallback_N=128),  for N=2048 started
+runtime 2.221263 seconds
+runtime 2.238109 seconds
+runtime 2.238176 seconds
+runtime 2.257999 seconds
+runtime 2.214047 seconds
+average runtime 2.233919 seconds
+---------------------------------
+test mat mult mat strassen naive (fallback_N=256),  for N=2048 started
+runtime 2.871906 seconds
+runtime 2.835283 seconds
+runtime 3.025824 seconds
+runtime 3.030048 seconds
+runtime 3.042570 seconds
+average runtime 2.961126 seconds
+---------------------------------

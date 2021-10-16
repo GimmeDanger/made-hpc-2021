@@ -1,0 +1,129 @@
+test mat mult vec test for N=2000 started
+runtime 0.003722 seconds
+runtime 0.003053 seconds
+runtime 0.003111 seconds
+runtime 0.003181 seconds
+runtime 0.004027 seconds
+average runtime 0.003419 seconds
+---------------------------------
+test mat mult vec test for N=2048 started
+runtime 0.003926 seconds
+runtime 0.003401 seconds
+runtime 0.003218 seconds
+runtime 0.003336 seconds
+runtime 0.003224 seconds
+average runtime 0.003421 seconds
+---------------------------------
+test mat mult vec test for N=4000 started
+runtime 0.011993 seconds
+runtime 0.014490 seconds
+runtime 0.014624 seconds
+runtime 0.012562 seconds
+runtime 0.015097 seconds
+average runtime 0.013753 seconds
+---------------------------------
+test mat mult vec test for N=4096 started
+runtime 0.014195 seconds
+runtime 0.013026 seconds
+runtime 0.015222 seconds
+runtime 0.013136 seconds
+runtime 0.015999 seconds
+average runtime 0.014316 seconds
+---------------------------------
+test mat mult vec test for N=8000 started
+runtime 0.054652 seconds
+runtime 0.052016 seconds
+runtime 0.054171 seconds
+runtime 0.057039 seconds
+runtime 0.054685 seconds
+average runtime 0.054513 seconds
+---------------------------------
+test mat mult vec test for N=8182 started
+runtime 0.054264 seconds
+runtime 0.054003 seconds
+runtime 0.059759 seconds
+runtime 0.056712 seconds
+runtime 0.055594 seconds
+average runtime 0.056066 seconds
+---------------------------------
+test mat mult mat kij test for N=500 started
+runtime 0.053482 seconds
+runtime 0.049607 seconds
+runtime 0.055777 seconds
+runtime 0.050474 seconds
+runtime 0.053786 seconds
+average runtime 0.052625 seconds
+---------------------------------
+test mat mult mat kij test for N=512 started
+runtime 0.066719 seconds
+runtime 0.070983 seconds
+runtime 0.073130 seconds
+runtime 0.066448 seconds
+runtime 0.066419 seconds
+average runtime 0.068740 seconds
+---------------------------------
+test mat mult mat kij test for N=1000 started
+runtime 0.654802 seconds
+runtime 0.758721 seconds
+runtime 0.676253 seconds
+runtime 0.678564 seconds
+runtime 0.692188 seconds
+average runtime 0.692105 seconds
+---------------------------------
+test mat mult mat kij test for N=1024 started
+runtime 0.784811 seconds
+runtime 0.881693 seconds
+runtime 0.881565 seconds
+runtime 0.843017 seconds
+runtime 0.764009 seconds
+average runtime 0.831019 seconds
+---------------------------------
+test mat mult mat kij test for N=2000 started
+runtime 7.994634 seconds
+runtime 7.970615 seconds
+runtime 7.927204 seconds
+runtime 8.436895 seconds
+runtime 8.096069 seconds
+average runtime 8.085083 seconds
+---------------------------------
+test mat mult mat kij test for N=2048 started
+runtime 8.623114 seconds
+runtime 8.738912 seconds
+runtime 8.584532 seconds
+runtime 8.600036 seconds
+runtime 8.513598 seconds
+average runtime 8.612038 seconds
+---------------------------------
+test mat mult mat strassen naive (fallback_N=128),  for N=512 started
+runtime 0.045407 seconds
+runtime 0.042332 seconds
+runtime 0.041079 seconds
+runtime 0.040924 seconds
+runtime 0.042538 seconds
+average runtime 0.042456 seconds
+---------------------------------
+test mat mult mat strassen naive (fallback_N=128),  for N=1024 started
+runtime 0.310981 seconds
+runtime 0.308862 seconds
+runtime 0.302953 seconds
+runtime 0.315369 seconds
+runtime 0.302357 seconds
+average runtime 0.308105 seconds
+---------------------------------
+test mat mult mat strassen naive (fallback_N=128),  for N=2048 started
+runtime 2.448612 seconds
+runtime 2.245701 seconds
+runtime 2.215741 seconds
+runtime 2.193467 seconds
+runtime 2.241953 seconds
+average runtime 2.269095 seconds
+---------------------------------
+test mat mult mat strassen naive (fallback_N=128),  for N=4096 started
+runtime 16.104885 seconds
+runtime 18.590755 seconds
+runtime 18.249548 seconds
+runtime 16.917752 seconds
+runtime 21.680664 seconds
+average runtime 18.308721 seconds
+---------------------------------
+
