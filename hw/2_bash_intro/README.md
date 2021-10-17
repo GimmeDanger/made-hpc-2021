@@ -1,5 +1,4 @@
-# Домашнее задание №1: ДЗ-2.1
-# Примеры простых bash-скриптов
+# Домашнее задание №2.1: примеры простых bash-скриптов
 
 1. Organize FOR loop printing the even numbers only from 100
 to 1000
