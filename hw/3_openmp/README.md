@@ -5,5 +5,37 @@
 
 ### Сборка:
 <pre>
-$ gcc -fopenmp maic.c
+$ gcc -fopenmp main.c
+</pre>
+
+### Тестирование метода Монте-Карло для оценки PI:
+<pre>
+$ gcc -fopenmp omp_monte_carlo_pi.c
+$ export OMP_NUM_THREADS=1
+$ ./a.out
+N = 100000000 round of Monte-Carlo, elapsed time = 1685.546875 ms
+Calculated PI = 3.141678
+True PI = 3.141593
+Diff = 0.000085
+
+$ export OMP_NUM_THREADS=2
+$ ./a.out
+N = 100000000 round of Monte-Carlo, elapsed time = 845.703125 ms
+Calculated PI = 3.141630
+True PI = 3.141593
+Diff = 0.000038
+
+$ export OMP_NUM_THREADS=4
+$ ./a.out
+N = 100000000 round of Monte-Carlo, elapsed time = 501.953125 ms
+Calculated PI = 3.141705
+True PI = 3.141593
+Diff = 0.000113
+
+$ export OMP_NUM_THREADS=8
+$ ./a.out
+N = 100000000 round of Monte-Carlo, elapsed time = 333.984375 ms
+Calculated PI = 3.141788
+True PI = 3.141593
+Diff = 0.000195
 </pre>
