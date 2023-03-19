@@ -12,5 +12,7 @@
 
 
 # Домашние задания
-1. Изучение метрик top500.org, оптимизация матричного умножения: [детали](https://github.com/GimmeDanger/made-hpc-2021/tree/master/hw/1)
-2. Базовый bash, матричное умножение / умножение матрицы на вектора, линпак тест, алгоритм Штрассена: [детали](https://github.com/GimmeDanger/made-hpc-2021/tree/master/hw/2)
+1. Изучение метрик top500.org, оптимизация матричного умножения: [условие](https://github.com/GimmeDanger/made-hpc-2021/tree/master/hw/1_top500_metrics)
+2. Базовый bash, матричное умножение / умножение матрицы на вектора, линпак тест, алгоритм Штрассена: [условие 1](https://github.com/GimmeDanger/made-hpc-2021/tree/master/hw/2_bash_intro), [условие 2](https://github.com/GimmeDanger/made-hpc-2021/tree/master/hw/2_matr_mult)
+3. Openmpi, метод Монте-Карло: [условие](https://github.com/GimmeDanger/made-hpc-2021/tree/master/hw/3_openmp)
+5. MPI, клеточный автомат Вольфрама: [условие](https://github.com/GimmeDanger/made-hpc-2021/tree/master/hw/5_mpi)
